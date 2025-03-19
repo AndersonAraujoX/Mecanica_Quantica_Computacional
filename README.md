@@ -1,6 +1,6 @@
 # Projetos de Mecânica Quântica e Clássica Computacional
 
-Este repositório contém os projetos desenvolvidos para as disciplinas de Mecânica Quântica Computacional (7600065) e Mecânica Clássica Computacional (7600033). Os projetos envolvem a implementação de métodos computacionais para resolver problemas em física.
+Este repositório contém os projetos desenvolvidos para a disciplina de Mecânica Quântica Computacional (7600065). Os projetos envolvem a implementação de métodos computacionais para resolver problemas em física.
 
 ## Projetos de Mecânica Quântica Computacional
 
